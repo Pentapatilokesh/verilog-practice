@@ -1,0 +1,5 @@
+Verilog is a hdl(Hardware description language)
+Hierarchy of design  methodologies can be top-down approach and bottom-up approach but in general a mix of these are used
+Levels of Abstraction:
+Behavioral level -   Module can be implemented in terms of the desired design algorithm without concern for the hardware implementation details. Very similar to C
+programming
